@@ -6,4 +6,8 @@ ul{
 }
 .box{
     color:crimson;
+    padding: 20px 50px;
+}
+.box2{
+    color:aliceblue;
 }
