@@ -11,3 +11,16 @@ ul{
 .box2{
     color:aliceblue;
 }
+.sticky-container{
+  background-image: linear-gradient(peachpuff, lightpink);
+  width: 80%;
+  height: 2000px;
+  margin: 50px auto;
+}
+.sticky-box{
+  background-color: lightgreen;
+  width: 100%;
+  height: 100px;
+  position: sticky;
+  top: 100px;
+}
